@@ -1,7 +1,0 @@
-com\cybersoft\automation\pages\HomePage.class
-com\cybersoft\automation\pages\MoviePage.class
-com\cybersoft\automation\pages\SignupPage.class
-com\cybersoft\automation\pages\MovieDetailPage.class
-com\cybersoft\automation\pages\LoginPage.class
-com\cybersoft\automation\utils\ScreenshotUtiils.class
-com\cybersoft\automation\pages\BasePage.class
