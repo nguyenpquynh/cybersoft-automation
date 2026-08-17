@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-02T16:59:09 ICT" name="Surefire suite" finished-at="2026-08-02T16:59:14 ICT" duration-ms="5369">
+    <groups>
+    </groups>
+    <test started-at="2026-08-02T16:59:09 ICT" name="Surefire test" finished-at="2026-08-02T16:59:14 ICT" duration-ms="5369">
+      <class name="com.cybersoft.automation.tests.SignupTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580]" started-at="2026-08-02T16:59:09 ICT" name="setUp" finished-at="2026-08-02T16:59:11 ICT" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySignupBtn()[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580]" started-at="2026-08-02T16:59:11 ICT" name="verifySignupBtn" finished-at="2026-08-02T16:59:12 ICT" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignupBtn -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580]" started-at="2026-08-02T16:59:12 ICT" name="tearDown" finished-at="2026-08-02T16:59:12 ICT" duration-ms="194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySignupBtn status=SUCCESS method=SignupTest.verifySignupBtn()[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580]" started-at="2026-08-02T16:59:12 ICT" name="setUp" finished-at="2026-08-02T16:59:13 ICT" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySignupForm()[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580]" started-at="2026-08-02T16:59:13 ICT" name="verifySignupForm" finished-at="2026-08-02T16:59:14 ICT" duration-ms="1014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignupForm -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580]" started-at="2026-08-02T16:59:14 ICT" name="tearDown" finished-at="2026-08-02T16:59:14 ICT" duration-ms="194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySignupForm status=SUCCESS method=SignupTest.verifySignupForm()[pri:0, instance:com.cybersoft.automation.tests.SignupTest@27d5a580] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cybersoft.automation.tests.SignupTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
